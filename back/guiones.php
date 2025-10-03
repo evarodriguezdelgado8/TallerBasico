@@ -8,11 +8,6 @@ var_dump($oProducto);
 
 
 ?>
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
